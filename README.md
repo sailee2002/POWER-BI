@@ -35,3 +35,49 @@ Power BI: Dashboard development, DAX calculations, interactive visualizations.
 Data Visualization & Storytelling: Translating raw data into meaningful business insights.
 Retail Analytics: Understanding key sales drivers and optimizing business performance.
 This project strengthened my expertise in business intelligence (BI), data visualization, and performance analytics, allowing me to translate complex datasets into actionable insights that drive strategic decision-making in the retail industry.
+
+
+
+
+
+
+
+Project 2: HR Analytics Dashboard-
+
+Industry Focus: Human Resources & Workforce Management
+
+This project presents an interactive Power BI dashboard designed to analyze employee attrition trends and uncover key factors influencing workforce turnover. By examining attributes such as gender, job position, salary, and prior work experience, the dashboard helps HR professionals, talent acquisition teams, and leadership executives make data-driven decisions to enhance employee retention and workplace satisfaction.
+
+Key Features & Insights
+Employee Attrition Overview:
+
+Attrition Rate Analysis: Tracks overall workforce turnover trends.
+Department-Wise Attrition: Identifies high-turnover departments for targeted retention strategies.
+Tenure vs. Attrition Trends: Highlights attrition patterns based on employee experience.
+Demographic & Position-Based Analysis:
+
+Gender-Based Attrition Trends: Assesses whether attrition differs between male and female employees.
+Job Role Impact: Identifies positions with the highest turnover rates.
+Previous Work Experience Influence: Analyzes how prior experience affects attrition likelihood.
+Compensation & Salary Benchmarking:
+
+Salary vs. Attrition Correlation: Identifies salary brackets with the highest turnover.
+Retention Strategies by Compensation Level: Helps HR teams refine salary structures for better workforce stability.
+Retention & Employee Satisfaction Insights:
+
+Key Drivers of Attrition: Highlights the top factors influencing employee exits.
+Engagement & Satisfaction Metrics: Helps companies assess workplace culture and job satisfaction levels.
+Predictive Analytics: Uses past attrition patterns to forecast future workforce trends.
+Dynamic Interactive Filters:
+
+Users can filter insights by Department, Job Role, Salary Range, Gender, and Experience Level to gain a granular view of workforce dynamics.
+Industry Relevance & Business Impact
+Human Resources & Talent Management: Helps HR teams implement data-driven retention strategies and optimize hiring practices.
+Workforce Planning & Business Strategy: Supports long-term workforce stability by identifying attrition risks early.
+Diversity & Inclusion Initiatives: Provides insights into gender-based attrition trends to promote equitable workplace policies.
+Financial Planning & Budgeting: Reduces recruitment and training costs by improving employee retention strategies.
+Skills & Tools Utilized
+Power BI: Advanced data visualization, DAX calculations, and dashboard development.
+HR Analytics: Workforce data analysis to identify employee retention trends.
+Business Intelligence (BI): Translating HR data into actionable business insights.
+This project sharpened my ability to interpret workforce data, identify key attrition drivers, and develop strategic retention insights, making it a valuable asset for HR professionals and business leaders looking to enhance employee engagement and reduce turnover costs.
